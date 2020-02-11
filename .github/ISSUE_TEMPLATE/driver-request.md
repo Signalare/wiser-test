@@ -1,0 +1,21 @@
+---
+name: Driver request
+about: Request a driver for a Schneider Electric Wiser device that's not currently
+  supported.
+title: ''
+labels: enhancement
+assignees: ''
+
+---
+
+**Do you have access to the device you want the app to support?**
+
+**Can you provide basic zigbee info of the device?**
+Manufacturer name: 
+Product id: 
+Device id: 
+Profile id: 
+
+**Link to Schneider Electric product page (english/swedish)**
+
+**Please attach deviceInfo() if possible**
