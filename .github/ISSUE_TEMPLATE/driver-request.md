@@ -18,4 +18,4 @@ Profile id:
 
 **Link to Schneider Electric product page (english/swedish)**
 
-**Please attach deviceInfo() if possible**
+**Please provide link to deviceInfo() if possible. [pastebin.com](https://pastebin.com/)**
