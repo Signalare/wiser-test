@@ -2,7 +2,7 @@
 name: Driver request
 about: Request a driver for a Schneider Electric Wiser device that's not currently
   supported.
-title: ''
+title: "[Driver request] asdfgsa"
 labels: enhancement
 assignees: ''
 
